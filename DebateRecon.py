@@ -7,8 +7,9 @@
 #
 #  A program to be used at NSDA Districts and similar tournaments with codes in order to collect team codes
 #  https://github.com/Adamkadaban
+#  https://github.com/Nate8888
 #
-#  Adam Hassan
+#  Adam Hassan & Nathan Wilk
 #
 #  Version 1.0 alpha 2/9/19
 
